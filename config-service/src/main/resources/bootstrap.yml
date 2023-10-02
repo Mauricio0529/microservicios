@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Mauricio0529/microservicios.git
+          uri: https://github.com/digitallab-academy/ms-course-youtube
           searchPaths: config-data
           username: Mauricio0529
           password: Carlosmauricio05
