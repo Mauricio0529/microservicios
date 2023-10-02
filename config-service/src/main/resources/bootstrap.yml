@@ -1,0 +1,12 @@
+server:
+  port: 8081
+
+# Configurar las rutas donde se encuentran -
+# - los archivos de configuracion de los microservicios
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri:
